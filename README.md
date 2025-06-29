@@ -22,7 +22,6 @@
 
 ## 🎯 App Screenshots
 
-> Replace these with your actual screenshots:
 
 | Dashboard                                        | What-if Scenario                                 |
 | ------------------------------------------------ | -----------------------------------------------  |
