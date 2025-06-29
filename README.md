@@ -24,9 +24,9 @@
 
 > Replace these with your actual screenshots:
 
-| Dashboard                                       | Improvement Roadmap                             |
-| ------------------------------------------------ | ----------------------------------------------- |
-| ![Dashboard Screenshot](screenshots/dashboard.png) | ![Roadmap Screenshot](screenshots/roadmap.png) |
+| Dashboard                                        | What-if Scenario                                 |
+| ------------------------------------------------ | -----------------------------------------------  |
+| ![Dashboard Screenshot](dashboard.png)           | ![Scenario Screenshot](scenario.png)             |
 
 ---
 
@@ -70,8 +70,7 @@
 │
 ├── app.py         # Main Streamlit app
 ├── requirements.txt  # Python dependencies
-├── README.md         # This file
-└── /screenshots      # Recommended: Add your UI screenshots
+├── README.md        
 ```
 
 ---
