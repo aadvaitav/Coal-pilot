@@ -2,7 +2,6 @@
 
 [![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-ff4b4b?logo=streamlit)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > 🌍 An interactive AI-powered dashboard to monitor, analyze, and reduce carbon emissions in coal mining operations.
 
